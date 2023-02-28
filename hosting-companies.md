@@ -17,6 +17,7 @@ In alphabetical order:
 * [Dhosting.pl](https://dhosting.pl/)
 * [Dreamhost](http://dreamhost.com)
 * [FatCow](http://www.fatcow.com/wordpress-hosting/)
+* [FullHost](https://www.fullhost.com/cloud-wordpress/)
 * [GoDaddy](https://www.godaddy.com/help/accessing-wp-cli-on-your-managed-wordpress-account-12066)
 * [GreenGeeks](https://www.greengeeks.com/tutorials/article/wp-cli/)
 * [Host4Geeks](https://host4geeks.com/managed-wordpress-hosting)
